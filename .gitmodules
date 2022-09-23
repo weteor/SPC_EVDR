@@ -1,3 +1,6 @@
 [submodule "kleeb"]
 	path = submodules/kleeb
 	url = https://github.com/crides/kleeb
+[submodule "OPL_Kicad_Library"]
+	path = submodules/OPL_Kicad_Library
+	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
