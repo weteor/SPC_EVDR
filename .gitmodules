@@ -4,3 +4,6 @@
 [submodule "OPL_Kicad_Library"]
 	path = submodules/OPL_Kicad_Library
 	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
+[submodule "kbd"]
+	path = submodules/kbd
+	url = https://github.com/foostan/kbd
