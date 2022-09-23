@@ -1,0 +1,3 @@
+[submodule "kleeb"]
+	path = kleeb
+	url = https://github.com/crides/kleeb
