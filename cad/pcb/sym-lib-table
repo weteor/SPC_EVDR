@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "mcu")(type "KiCad")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kleeb/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+)

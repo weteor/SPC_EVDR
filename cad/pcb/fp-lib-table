@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "weteor")(type "KiCad")(uri "/home/matthias/Data/proj/Klacker_BS/pcb/part_library/weteor.pretty")(options "")(descr ""))
+  (lib (name "mcu")(type "KiCad")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kleeb/mcu.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+)
