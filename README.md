@@ -1,7 +1,8 @@
 # SPC EVDR
 38 key orthogonl keyboard w/ offset spacebar
 
-![top](https://raw.githubusercontent.com/weteor/SPC_EVDR/main/img/render.mp4?token=GHSAT0AAAAAABOTMORFGBBITAVJPK7D7BKEY2W74BQ)
+https://user-images.githubusercontent.com/79446655/197630217-8b76d6c4-c2ee-4cee-82ff-70f0dda0aa4b.mp4
+
 
 ## Features
 
