@@ -24,7 +24,7 @@ Gerber files as well as files needed for 3d printing are provided. Please note t
 ### firmware 
 The SPC EVDR uses ZMK firmware.
 
-If you prefer the github workflow, you can find the zmk config for the Tipper TF [here](https://github.com/weteor/SPC_EVDR-Config).
+If you prefer the github workflow, you can find the zmk config [here](https://github.com/weteor/SPC_EVDR-Config).
 
 ### some more renders
 ![top](img/top_knob.png)
