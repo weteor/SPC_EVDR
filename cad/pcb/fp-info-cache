@@ -1,4 +1,4 @@
-20552118566993904
+20563779674183784
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86534,6 +86534,48 @@ FCC 1x10 - JUSHUO AFC01-S10FCA-00
 12
 11
 weteor
+Inv1_CherryMX_Hotswap
+
+
+0
+2
+2
+weteor
+InvCherryMX_Hotswap_2.25u_stabs
+
+
+0
+2
+2
+weteor
+InvCherryMX_Hotswap_3u_stabs
+
+
+0
+2
+2
+weteor
+Inv_CherryMX_Hotswap_1.5u
+
+
+0
+2
+2
+weteor
+Inv_CherryMX_Hotswap_1.25u
+
+
+0
+2
+2
+weteor
+Inv_CherryMX_Hotswap_1.75u
+
+
+0
+2
+2
+weteor
 K3-2380S-E1 On-on
 
 
@@ -86701,6 +86743,13 @@ USB_C 16 Pin
 0
 20
 17
+weteor
+ec11_smd
+
+
+0
+7
+7
 weteor
 pimoroni_Trackball
 
