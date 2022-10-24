@@ -1,7 +1,7 @@
 # SPC EVDR
 38 key orthogonl keyboard w/ offset spacebar
 
-![top](img/top_knob.png)
+![top](https://raw.githubusercontent.com/weteor/SPC_EVDR/main/img/render.mp4?token=GHSAT0AAAAAABOTMORFGBBITAVJPK7D7BKEY2W74BQ)
 
 ## Features
 
@@ -28,7 +28,7 @@ If you prefer the github workflow, you can find the zmk config for the Tipper TF
 ### some more renders
 ![top](img/top_knob.png)
 
-![front](img/side_knob_1.png "front")
+![front](img/side_knob_1.png)
 
 ![front](img/side_knob.png)
 
