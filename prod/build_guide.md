@@ -21,7 +21,7 @@
 | 1     | case botom           | [case files](prod/case)                   |
 | 1     | acryl inserts        | [case files](prod/case) optional          |
 | 6     | heat inserts m2      |                                           |
-| 6     | 12 screws  6mm       |                                           |
+| 6     | M2 screws - 6mm      |                                           |
 | 14    | magnets              | 3x3 cylindrical N35                       |
 | 38    | switches             | MX                                        |
 |       | keycaps              |                                           |
