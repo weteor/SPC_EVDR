@@ -5,8 +5,8 @@
 #### parts
 | #     | name                 | comments                                  |
 |-------|----------------------|-------------------------------------------|
-| 1     | main PCB             | [gerber and SMT Assembly files](prod/pcb) |
-| 1     | Seeed Xiao BLE       | Controller board                          |
+| 1     | main PCB             | [gerber files](PCB)                       |
+| 1     | Seeed Xiao (optional BLE) | Controller board                          |
 | 3     | R - 0805 - 10k       | resistor                                  |
 | 1     | C - 0805 - 100nF     | capacitor                                 |
 | 1     | PCA9555PW            | IO Expander                               |
