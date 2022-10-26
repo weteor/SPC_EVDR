@@ -1,7 +1,7 @@
 # SPC EVDR
 38 key orthogonl keyboard w/ offset spacebar
 
-![top](https://raw.githubusercontent.com/weteor/SPC_EVDR/main/img/render.mp4?token=GHSAT0AAAAAABOTMORFGBBITAVJPK7D7BKEY2W74BQ)
+![top](img/top.png)
 
 ## Features
 
@@ -25,11 +25,9 @@ The SPC EVDR uses ZMK firmware.
 
 If you prefer the github workflow, you can find the zmk config for the Tipper TF [here](https://github.com/weteor/SPC_EVDR-Config).
 
-### some more renders
-![top](img/top_knob.png)
+### some more images / renders
+![side](img/side.png)
 
-![front](img/side_knob_1.png)
+![back](img/back.png)
 
-![front](img/side_knob.png)
-
-![front](img/backRight.png)
+![render](https://raw.githubusercontent.com/weteor/SPC_EVDR/main/img/render.mp4?token=GHSAT0AAAAAABOTMORFGBBITAVJPK7D7BKEY2W74BQ)
