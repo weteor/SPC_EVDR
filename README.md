@@ -8,9 +8,9 @@
 - MX w/ hotswap
 - encoder (12 mm knob diameter)
 - OLED
-- Bluetooth and USB connection 
+- Bluetooth and USB connection
 - case files are supplied (stl, dxf, as well as the freecad files)
-- ZMK firmware support
+- ZMK firmware support ( on Seeed Xiao or Seeed Xiao BLE )
 - completely open source, permissive license
 
 ## Want one?
