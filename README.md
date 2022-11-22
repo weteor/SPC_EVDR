@@ -9,6 +9,7 @@
 - encoder (12 mm knob diameter)
 - OLED
 - Bluetooth and USB connection
+- case with optional acrylic accents
 - case files are supplied (stl, dxf, as well as the freecad files)
 - ZMK firmware support ( on Seeed Xiao or Seeed Xiao BLE )
 - completely open source, permissive license
