@@ -26,6 +26,11 @@ The SPC EVDR uses ZMK firmware.
 
 If you prefer the github workflow, you can find the zmk config [here](https://github.com/weteor/SPC_EVDR-Config).
 
+## the rest
+Everything in this repository is free to use however you might see fit. If you want to support me and my projects, please consider linking back to this repository if you build/change/use anything. 
+
+If you would like to send me a tip, you could do it [here](https://ko-fi.com/weteor) (Please don't feel like you have to).
+
 ### some more images / renders
 ![side](img/side.png)
 
