@@ -31,9 +31,7 @@ Everything in this repository is free to use however you might see fit. If you w
 
 If you would like to send me a tip, you could do it [here](https://ko-fi.com/weteor) (Please don't feel like you have to).
 
-### some more images / renders
+### some more images
 ![side](img/side.png)
 
 ![back](img/back.png)
-
-![render](https://user-images.githubusercontent.com/79446655/197630217-8b76d6c4-c2ee-4cee-82ff-70f0dda0aa4b.mp4)
