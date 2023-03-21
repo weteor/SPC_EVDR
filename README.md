@@ -11,7 +11,7 @@
 - Bluetooth and USB connection
 - case with optional acrylic accents
 - case files are supplied (stl, dxf, as well as the freecad files)
-- ZMK firmware support ( on Seeed Xiao RP2040 (experimental) or Seeed Xiao BLE )
+- ZMK firmware support ( on Seeed Xiao SAMD21 or Seeed Xiao BLE )
 - QMK firmware support ( on Seeed Xiao RP2040 )
 - completely open source, permissive license
 
